@@ -18,3 +18,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+
+// Application ID: LD8jlfqIFiCAMB4SmQUKS4PgSR82rtv86I8abidx
+
+// JavaScript key: OnhqqrUY3IlTtomEbFjwcw99SAqCyxnnilJ2v9Nw
